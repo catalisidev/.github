@@ -1,7 +1,7 @@
 # Catalisi
 
 <p align="center">
-  <img src="https://github.com/catalisidev/.github/blob/main/apple-touch-icon.png?raw=true" alt="Catalisi Logo" width="120" height="120" style="border-radius: 24px;"/>
+  <img src="https://catalisi.dev/logo-catalisi.svg" alt="Catalisi Logo" width="120" height="120" style="border-radius: 24px;"/>
 </p>
 
 <p align="center">
